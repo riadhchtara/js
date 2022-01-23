@@ -1,7 +1,3 @@
 # o
 
-k js
-
-
-
-ihm
+hi
